@@ -1,6 +1,16 @@
 html{
     font-family: sans-serif;
 }
-input{
-    column-rule-style: dotted
+.dates{
+    font-size: small;
+    color:red;
+    font-weight: bold;
+    background-color: yellow;
+    padding: 5px 10px 5px 10px;
+}
+body{
+    background-color: white;
+}
+#plus-sign{
+    
 }
