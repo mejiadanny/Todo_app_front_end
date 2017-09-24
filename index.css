@@ -12,5 +12,32 @@ body{
     background-color: white;
 }
 #plus-sign{
-    
+    margin-top: 10px;
+}
+
+li{
+    margin-bottom:20px;
+    padding: 10px;
+}
+
+#plus-sign:active{
+    box-shadow:1px 1px 1px;
+}
+
+li:hover{
+    background-color: #c6f2aa;
+}
+
+h1{
+    padding-left:150px;
+    padding-bottom:10px;
+    padding-top:10px;
+    color:Orange;
+}
+.all_list_items{
+    display:inline;
+    margin:50px;
+}
+.sections{
+    display:inline;
 }
