@@ -20,9 +20,6 @@ li{
     padding: 10px;
 }
 
-#plus-sign:active{
-    box-shadow:1px 1px 1px;
-}
 
 li:hover{
     background-color: #c6f2aa;
@@ -33,7 +30,4 @@ h1{
     padding-bottom:10px;
     padding-top:10px;
     color:Orange;
-}
-#lists{
-    display:inline;
 }
